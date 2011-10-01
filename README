@@ -1,0 +1,14 @@
+Gerador de Títulos para Filmes
+
+Este software gera títulos para filme usando um modelo.svg
+baseado no exemplo do OpenShot.
+
+Utilização:
+Usage: gerador_titulos.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+    -f FILE, --file=FILE  SVG base Model
+
+Instalando:
+
