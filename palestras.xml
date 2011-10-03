@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gCal='http://schemas.google.com/gCal/2005' xmlns:gd='http://schemas.google.com/g/2005'><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic</id><updated>2011-09-27T08:04:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='text'>PythonBrasil</title><subtitle type='text'>Agenda com a programação oficial do evento.</subtitle><link rel='alternate' type='text/html' href='http://www.google.com/calendar/embed?src=5c2c3b8jc4d1bn5sf089f0ogr8@group.calendar.google.com'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic'/><link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/batch'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic?max-results=25'/><link rel='next' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic?start-index=26&amp;max-results=25'/><author><name>dtremea@gmail.com</name><email>dtremea@gmail.com</email></author><generator version='1.0' uri='http://www.google.com/calendar'>Google Calendar</generator><openSearch:totalResults>85</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><gCal:timezone value='America/Sao_Paulo'/><gCal:timesCleaned value='0'/><gd:where valueString='Curitiba, PR, Brasil'/><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_84r3adq588o3ib9m89236b9k8cr36ba28gq3eb9o74s3cdi6752k6d9i8o</id><published>2010-09-10T04:23:12.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: TI em saúde: um vácuo de mercado e por que Pythonistas já saem na frente</title><summary type='html'>Quando: qui 21 de out de 2010 10:30 a 11:15&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Luciana Tricai Cavalini
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 10:30 a 11:15 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Luciana Tricai Cavalini
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=Xzg0cjNhZHE1ODhvM2liOW04OTIzNmI5azhjcjM2YmEyOGdxM2ViOW83NHMzY2RpNjc1Mms2ZDlpOG8gNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/40b73c317888ba44cf258fb0c8521a92'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_84r3adq588o3ib9m89236b9k8cr36ba28gq3eb9o74s3cdi6752k6d9i8o'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6t34ada38d1j4b9l70r3ib9k8kqk4ba174pk8b9n74rkcd1o6t34adpm68</id><published>2010-09-10T04:23:17.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Python Packaging: Passado, Presente e Futuro</title><summary type='html'>Quando: qui 21 de out de 2010 15:45 a 16:30&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Hugo Lopes Tavares
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 15:45 a 16:30 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Hugo Lopes Tavares
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZ0MzRhZGEzOGQxajRiOWw3MHIzaWI5azhrcWs0YmExNzRwazhiOW43NHJrY2QxbzZ0MzRhZHBtNjggNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/8d405bc7f3c0f430159d67490a55524a'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6t34ada38d1j4b9l70r3ib9k8kqk4ba174pk8b9n74rkcd1o6t34adpm68'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6cr46d9h6gok4b9k8os3ib9k6h1kcba1712kab9p6cpj6h9l650j2e9j6c</id><published>2010-09-10T04:23:19.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Python em Sistemas Recomendação: A Cobra é Inteligente!</title><summary type='html'>Quando: qui 21 de out de 2010 17:15 a 18:00&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Marcel Pinheiro Caraciolo
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 17:15 a 18:00 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Marcel Pinheiro Caraciolo
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZjcjQ2ZDloNmdvazRiOWs4b3MzaWI5azZoMWtjYmExNzEya2FiOXA2Y3BqNmg5bDY1MGoyZTlqNmMgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/5099af5b971c4f45a5edf740c8fe94c9'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6cr46d9h6gok4b9k8os3ib9k6h1kcba1712kab9p6cpj6h9l650j2e9j6c'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_74r4cci260sj2b9g6crk4b9k6cqk6b9p84pj8ba56sp3eha66p0j0g9l8o</id><published>2010-09-10T04:26:57.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Python e as eleições nas mídias sociais: Como ela ajudou a decidir o Futuro do Brasil</title><summary type='html'>Quando: sex 22 de out de 2010 09:00 a 09:45&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Rafael Jacinto Car&amp;iacute;cio da Fons&amp;ecirc;ca
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 09:00 a 09:45 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Rafael Jacinto Carício da Fonsêca
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=Xzc0cjRjY2kyNjBzajJiOWc2Y3JrNGI5azZjcWs2YjlwODRwajhiYTU2c3AzZWhhNjZwMGowZzlsOG8gNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/6b7e299f562fe528b3f906b8ecb33995'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_74r4cci260sj2b9g6crk4b9k6cqk6b9p84pj8ba56sp3eha66p0j0g9l8o'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6spjcdpl8or46b9g68s3gb9k74sj0b9o88q46b9k8crj6d9i6l0kahhi8o</id><published>2010-09-10T05:29:40.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Potter vs Voldemort: Lições Ofidiglotas da Prática Pythônica</title><summary type='html'>Quando: sex 22 de out de 2010 15:00 a 15:45&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Rodrigo Dias Arruda Senra
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 15:00 a 15:45 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Rodrigo Dias Arruda Senra
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZzcGpjZHBsOG9yNDZiOWc2OHMzZ2I5azc0c2owYjlvODhxNDZiOWs4Y3JqNmQ5aTZsMGthaGhpOG8gNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/4452252fce74647a1fbee5b823cd98e6'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6spjcdpl8or46b9g68s3gb9k74sj0b9o88q46b9k8crj6d9i6l0kahhi8o'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6d244dpm6d1j6b9p6l14cb9k8h136b9o84p44ba18h2k4cpp74q3aea46g</id><published>2010-09-10T04:25:10.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Django e CMS customizáveis</title><summary type='html'>Quando: sex 22 de out de 2010 17:15 a 18:00&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Anderson Santos Silva
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 17:15 a 18:00 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Anderson Santos Silva
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZkMjQ0ZHBtNmQxajZiOXA2bDE0Y2I5azhoMTM2YjlvODRwNDRiYTE4aDJrNGNwcDc0cTNhZWE0NmcgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/6554722ec43caaa005e8555dcd100a88'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6d244dpm6d1j6b9p6l14cb9k8h136b9o84p44ba18h2k4cpp74q3aea46g'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_88pj6dph6t236ba18l2k6b9k74s42ba268s38b9g8kpj6h1n64o48c1n6g</id><published>2010-09-10T04:33:45.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Como utilizar a DAL (Camada de abstração de acesso a dados) do web2py em outros projetos ou frameworks Python</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 16:30 a 17:15&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Bruno Cezar Rocha
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 16:30 a 17:15 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Bruno Cezar Rocha
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=Xzg4cGo2ZHBoNnQyMzZiYTE4bDJrNmI5azc0czQyYmEyNjhzMzhiOWc4a3BqNmgxbjY0bzQ4YzFuNmcgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/e82ba44698924532bc0af1256dfa288f'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_88pj6dph6t236ba18l2k6b9k74s42ba268s38b9g8kpj6h1n64o48c1n6g'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6gsjgh1o75342ba56sojib9k88q4cba270p3ib9l88s48ha37124cdpm6k</id><published>2010-09-10T04:05:59.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Visão Computacional aplicada à Robótica com Python e OpenCV</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 17:15 a 18:00&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Alex Tercete Matos
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 17:15 a 18:00 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Alex Tercete Matos
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZnc2pnaDFvNzUzNDJiYTU2c29qaWI5azg4cTRjYmEyNzBwM2liOWw4OHM0OGhhMzcxMjRjZHBtNmsgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/8862c48fe002fedc6bc3ea4f8a2958ea'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6gsjgh1o75342ba56sojib9k88q4cba270p3ib9l88s48ha37124cdpm6k'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_88r34h1g60rj4ba4710k4b9k8d24ab9p652j8b9h890j2gi66coj0di588</id><published>2010-09-10T04:34:49.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Pés na Terra, Cabeça nas Nuvens</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 10:30 a 11:15&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Fl&amp;aacute;vio Code&amp;ccedil;o Coelho
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 10:30 a 11:15 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Flávio Codeço Coelho
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=Xzg4cjM0aDFnNjByajRiYTQ3MTBrNGI5azhkMjRhYjlwNjUyajhiOWg4OTBqMmdpNjZjb2owZGk1ODggNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/939dda305eee508407a8f8297333f5f8'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_88r34h1g60rj4ba4710k4b9k8d24ab9p652j8b9h890j2gi66coj0di588'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8cqj2ghn6t1jcb9n8cpjab9k6cr4ab9p8p2kcb9g6oo44cpm6t24adi668</id><published>2010-09-10T04:23:07.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Python Ágil</title><summary type='html'>Quando: qui 21 de out de 2010 16:30 a 17:15&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Ramiro Batista da Luz
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 16:30 a 17:15 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Ramiro Batista da Luz
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzhjcWoyZ2huNnQxamNiOW44Y3BqYWI5azZjcjRhYjlwOHAya2NiOWc2b280NGNwbTZ0MjRhZGk2NjggNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/b16273c59a22ecac6ae636a07ce1f545'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8cqj2ghn6t1jcb9n8cpjab9k6cr4ab9p8p2kcb9g6oo44cpm6t24adi668'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8oq48hho8oq42b9i6l14ab9k6crj0b9p6l0j6ba58grj8da48l142dph68</id><published>2010-10-21T01:27:27.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Por que Python?</title><summary type='html'>Quando: qui 21 de out de 2010 10:30 a 11:15&amp;nbsp;
+BRST&lt;br&gt;
+
+&lt;br&gt;Onde: Marco Andr&amp;eacute; Lopes Mendes
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 10:30 a 11:15 
+BRST&lt;br /&gt;
+
+&lt;br /&gt;Onde: Marco André Lopes Mendes
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzhvcTQ4aGhvOG9xNDJiOWk2bDE0YWI5azZjcmowYjlwNmwwajZiYTU4Z3JqOGRhNDhsMTQyZHBoNjggNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/bfa8784529aa8e519f35e7f86824a363'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8oq48hho8oq42b9i6l14ab9k6crj0b9p6l0j6ba58grj8da48l142dph68'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_60s30d256gsk4b9g6d2jib9k892j6b9p6t1j0b9l8go4cci28cojehhp6c</id><published>2010-09-10T05:28:10.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Metapython Reciclado</title><summary type='html'>Quando: qui 21 de out de 2010 15:00 a 15:45&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Jo&amp;atilde;o Sebasti&amp;atilde;o de Oliveira Bueno
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 15:00 a 15:45 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: João Sebastião de Oliveira Bueno
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzYwczMwZDI1NmdzazRiOWc2ZDJqaWI5azg5Mmo2YjlwNnQxajBiOWw4Z280Y2NpMjhjb2plaGhwNmMgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/4ea28e449eb8462dd4010f0bdbdee228'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_60s30d256gsk4b9g6d2jib9k892j6b9p6t1j0b9l8go4cci28cojehhp6c'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6p330gpg6oqj8ba564p4cb9k65346b9o6gq3cba668r3ih1g6cqj6dhp6k</id><published>2010-09-10T04:29:33.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Melhorando a performance de projetos Django</title><summary type='html'>Quando: sex 22 de out de 2010 09:00 a 09:45&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Marcos Daniel Petry
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 09:00 a 09:45 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Marcos Daniel Petry
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZwMzMwZ3BnNm9xajhiYTU2NHA0Y2I5azY1MzQ2YjlvNmdxM2NiYTY2OHIzaWgxZzZjcWo2ZGhwNmsgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/25a2123b3241780c2db5dee0ca806544'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6p330gpg6oqj8ba564p4cb9k65346b9o6gq3cba668r3ih1g6cqj6dhp6k'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8p330d9p6h1kcba46ook6b9k6kq3cba16orkcb9k88o42e1j8p23ic9p6g</id><published>2010-09-10T04:05:56.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Inteligência Computacional com Python</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 11:15 a 12:00&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Jos&amp;eacute; Alexandre Nalon
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 11:15 a 12:00 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: José Alexandre Nalon
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzhwMzMwZDlwNmgxa2NiYTQ2b29rNmI5azZrcTNjYmExNm9ya2NiOWs4OG80MmUxajhwMjNpYzlwNmcgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/133a99cc576e18e40abd72274793e53f'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8p330d9p6h1kcba46ook6b9k6kq3cba16orkcb9k88o42e1j8p23ic9p6g'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_68p48gq370ojgb9n6crj6b9k6534ab9o60o38b9o8l344dpp8oo3egi36g</id><published>2010-09-10T05:27:52.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Escalando aplicações Django</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 15:00 a 15:45&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Andrews Patrick Rocha Medina
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 15:00 a 15:45 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Andrews Patrick Rocha Medina
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzY4cDQ4Z3EzNzBvamdiOW42Y3JqNmI5azY1MzRhYjlvNjBvMzhiOW84bDM0NGRwcDhvbzNlZ2kzNmcgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/ce926c33a991534bccf4bb0811bfb8dd'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_68p48gq370ojgb9n6crj6b9k6534ab9o60o38b9o8l344dpp8oo3egi36g'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6h2k8h1p6ksk8b9j6p0k4b9k6t1kaba288sjaba264rj2c258gq44g9n70</id><published>2010-09-10T03:45:48.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: Como não programar em Python ou Python Tricks que você ainda não conhecia</title><summary type='html'>Quando: sex 22 de out de 2010 16:30 a 17:15&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Henrique Pereira
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 16:30 a 17:15 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Henrique Pereira
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZoMms4aDFwNmtzazhiOWo2cDBrNGI5azZ0MWthYmEyODhzamFiYTI2NHJqMmMyNThncTQ0ZzluNzAgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/88056f9fae568820e4bee916717832d6'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6h2k8h1p6ksk8b9j6p0k4b9k6t1kaba288sjaba264rj2c258gq44g9n70'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8l1k4g9n752j6b9h6ksk2b9k68sj2b9p6krjaba188rj2dhm6kr3gdpi6g</id><published>2010-09-10T04:27:20.000Z</published><updated>2010-10-31T23:46:54.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>A: CartolaFC 2010: Uma aplicação Python rápida e escalável</title><summary type='html'>Quando: sex 22 de out de 2010 09:45 a 10:30&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Marcel Nicolay Santos
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 09:45 a 10:30 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Marcel Nicolay Santos
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzhsMWs0ZzluNzUyajZiOWg2a3NrMmI5azY4c2oyYjlwNmtyamFiYTE4OHJqMmRobTZrcjNnZHBpNmcgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/1a7f8b36aeccbb12209bf508b4981866'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8l1k4g9n752j6b9h6ksk2b9k68sj2b9p6krjaba188rj2dhm6kr3gdpi6g'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_851kah9j64s38b9p6h34ab9k6t0kaba16ko3eba689130h1k70q48ga16s</id><published>2010-09-10T04:06:04.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Uma Visão do Mundo Ruby</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 13:30 a 15:00&amp;nbsp;
+BRST&lt;br&gt;
+
+&lt;br&gt;Onde: F&amp;aacute;bio Akita
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 13:30 a 15:00 
+BRST&lt;br /&gt;
+
+&lt;br /&gt;Onde: Fábio Akita
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=Xzg1MWthaDlqNjRzMzhiOXA2aDM0YWI5azZ0MGthYmExNmtvM2ViYTY4OTEzMGgxazcwcTQ4Z2ExNnMgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_851kah9j64s38b9p6h34ab9k6t0kaba16ko3eba689130h1k70q48ga16s'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6l1jie9h690j4b9l8os44b9k8d0j6ba28h1jab9n8h2k2gph712jghhm68</id><published>2010-09-10T03:21:59.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Keynote: The Zen of Startups</title><summary type='html'>Quando: qui 21 de out de 2010 13:30 a 15:00&amp;nbsp;
+BRST&lt;br&gt;
+
+&lt;br&gt;Onde: Leah Culver
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 13:30 a 15:00 
+BRST&lt;br /&gt;
+
+&lt;br /&gt;Onde: Leah Culver
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZsMWppZTloNjkwajRiOWw4b3M0NGI5azhkMGo2YmEyOGgxamFiOW44aDJrMmdwaDcxMmpnaGhtNjggNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6l1jie9h690j4b9l8os44b9k8d0j6ba28h1jab9n8h2k2gph712jghhm68'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_64ok2ca68913iba48913ab9k6t2kab9o8ookab9h68ojgha46so34g9l64</id><published>2010-09-10T03:46:04.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Keynote: Comunidad, anarquía y subversión</title><summary type='html'>Quando: sex 22 de out de 2010 13:30 a 15:00&amp;nbsp;
+BRST&lt;br&gt;
+
+&lt;br&gt;Onde: Facundo Batista
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 13:30 a 15:00 
+BRST&lt;br /&gt;
+
+&lt;br /&gt;Onde: Facundo Batista
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzY0b2syY2E2ODkxM2liYTQ4OTEzYWI5azZ0MmthYjlvOG9va2FiOWg2OG9qZ2hhNDZzbzM0ZzlsNjQgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_64ok2ca68913iba48913ab9k6t2kab9o8ookab9h68ojgha46so34g9l64'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6cqjghi174okcba68kq4ab9k6cs3aba16ksjab9k6kp3ae1i6or3ac1i8g</id><published>2010-09-10T04:23:14.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Trading Card Game com Realidade Aumentada</title><summary type='html'>Quando: qui 21 de out de 2010 11:15 a 12:00&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Thiago Malheiros Porcino
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 11:15 a 12:00 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Thiago Malheiros Porcino
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZjcWpnaGkxNzRva2NiYTY4a3E0YWI5azZjczNhYmExNmtzamFiOWs2a3AzYWUxaTZvcjNhYzFpOGcgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/7234d9fbd1c29f10f062ee67c60481a1'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6cqjghi174okcba68kq4ab9k6cs3aba16ksjab9k6kp3ae1i6or3ac1i8g'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6l148g9m8ook2b9i6op38b9k74s30ba18op48b9o6t33adho64o3ag9g74</id><published>2010-09-10T05:29:33.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Python e Segurança da Informação: Desenvolvendo Exploits em Python</title><summary type='html'>Quando: qui 21 de out de 2010 15:00 a 15:45&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Oscar Isauro Bacelar Marques
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: qui 21 de out de 2010 15:00 a 15:45 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Oscar Isauro Bacelar Marques
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZsMTQ4ZzltOG9vazJiOWk2b3AzOGI5azc0czMwYmExOG9wNDhiOW82dDMzYWRobzY0bzNhZzlnNzQgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/2fc180519e23affbee5a8e3a40e0b429'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6l148g9m8ook2b9i6op38b9k74s30ba18op48b9o6t33adho64o3ag9g74'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8d236h24852jaba68cr48b9k6l334ba288rj6b9j68q30d9g8d33ec226c</id><published>2010-09-10T04:33:26.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Python 3: o que mudou e por que adotar?</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 10:30 a 11:15&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Rafael Carlos Valverde
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 10:30 a 11:15 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Rafael Carlos Valverde
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzhkMjM2aDI0ODUyamFiYTY4Y3I0OGI5azZsMzM0YmEyODhyajZiOWo2OHEzMGQ5ZzhkMzNlYzIyNmMgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/38c4ca02d957dc233b0d4f3198c8bd10'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8d236h24852jaba68cr48b9k6l334ba288rj6b9j68q30d9g8d33ec226c'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8l0k8e9n6sr36b9g6or34b9k8gs30ba28op46b9k60rj0dho8kr3id228g</id><published>2010-09-10T04:23:05.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: Python + Asterisk: desenvolvendo aplicações de telefonia com StarPy</title><summary type='html'>Quando: sex 22 de out de 2010 15:45 a 16:30&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Rud&amp;aacute; Porto Filgueiras
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sex 22 de out de 2010 15:45 a 16:30 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Rudá Porto Filgueiras
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzhsMGs4ZTluNnNyMzZiOWc2b3IzNGI5azhnczMwYmEyOG9wNDZiOWs2MHJqMGRobzhrcjNpZDIyOGcgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/9307bc2708df73a4eacb0a6cdd6f57b0'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_8l0k8e9n6sr36b9g6or34b9k8gs30ba28op46b9k60rj0dho8kr3id228g'/><author><name>PythonBrasil[5]</name></author></entry><entry><id>http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6l0jcd218crkab9l88pkcb9k60sj8b9o6kpkaba5690k8hi36gpj0ha364</id><published>2010-09-10T04:32:58.000Z</published><updated>2010-10-31T23:46:53.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>B: p14p - Python-on-a-Chip: Embarque este você também</title><summary type='html'>Quando: s&amp;aacute;b 23 de out de 2010 15:45 a 16:30&amp;nbsp;
+BRST&lt;br&gt;
+&lt;br&gt;Quem: PythonBrasil
+&lt;br&gt;Onde: Alberto Fabiano
+&lt;br&gt;Status do evento: confirmado</summary><content type='html'>Quando: sáb 23 de out de 2010 15:45 a 16:30 
+BRST&lt;br /&gt;
+&lt;br /&gt;Quem: PythonBrasil
+&lt;br /&gt;Onde: Alberto Fabiano
+&lt;br /&gt;Status do evento: confirmado</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=XzZsMGpjZDIxOGNya2FiOWw4OHBrY2I5azYwc2o4YjlvNmtwa2FiYTU2OTBrOGhpMzZncGowaGEzNjQgNWMyYzNiOGpjNGQxYm41c2YwODlmMG9ncjhAZw' title='alternate'/><link rel='related' type='text/html' href='http://www.pythonbrasil.org.br/2010/sobre-o-evento/inscricoes/7b85bfede9797be22f4833d295f18fe7'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/5c2c3b8jc4d1bn5sf089f0ogr8%40group.calendar.google.com/public/basic/_6l0jcd218crkab9l88pkcb9k60sj8b9o6kpkaba5690k8hi36gpj0ha364'/><author><name>PythonBrasil[5]</name></author></entry></feed>
