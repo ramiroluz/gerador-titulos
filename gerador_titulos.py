@@ -29,7 +29,7 @@ def parse_palestras(filename='palestras.xml'):
 
     parser = HTMLParser.HTMLParser()
 
-    palestras_file = open('palestras.xml')
+    palestras_file = open(filename)
     palestras_xml = palestras_file.read()
     palestras_file.close()
     palestras_soup = BeautifulStoneSoup(palestras_xml,
@@ -60,11 +60,14 @@ def process_files(filename, lectures):
 
         title[0] = title[0].replace('A: ','')
         title[0] = title[0].replace('B: ','')
-        xml_content = model_svg.replace('Title',title[0].encode('utf-8'))
+        #xml_content = model_svg.replace('Title',title[0].encode('utf-8'))
+        xml_content = model_svg.replace('Title',title[0])
         if len(title) > 1:
-            xml_content = xml_content.replace('Line1',title[1].encode('utf-8'))
+            #xml_content = xml_content.replace('Line1',title[1].encode('utf-8'))
+            xml_content = xml_content.replace('Line1',title[1])
         xml_content = xml_content.replace('Line2',
-                                          lecture[SPEAKER].encode('utf-8'))
+                                          lecture[SPEAKER])
+                                          #lecture[SPEAKER].encode('utf-8'))
         lecture_file_obj = file(lecture_file_name,'w')
         lecture_file_obj.write(xml_content)
         lecture_file_obj.close()
