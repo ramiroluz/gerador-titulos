@@ -305,3 +305,5 @@ palestrantes = {'An\xc3\xa1lise de redes sociais usando NetworkX e GoogleAppEngi
 #print(s21)
 #print(s22)
 #print(s23)
+for i in palestrantes.keys():
+    print(i)
