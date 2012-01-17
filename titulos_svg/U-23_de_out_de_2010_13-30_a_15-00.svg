@@ -14,8 +14,8 @@
    height="1080"
    id="svg2383"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="A-21_de_out_de_2010_09-00_a_09-45.svg"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="modelo.svg"
    sodipodi:version="0.32"
    version="1.0"
    width="1440">
@@ -74,9 +74,9 @@
     <inkscape:perspective
        id="perspective2933"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
@@ -91,15 +91,15 @@
      inkscape:document-units="px"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="1056"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1920"
+     inkscape:window-height="525"
+     inkscape:window-width="1024"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:zoom="0.2786611"
      objecttolerance="10"
      pagecolor="#ffffff"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2388">
     <rdf:RDF>
@@ -137,27 +137,27 @@
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          x="698.11011"
-         y="483.76422">Cerimônia de Abertura &amp; Infra-Estrutura</tspan><tspan
+         y="483.76422">Uma Visão do Mundo Ruby</tspan><tspan
          id="tspan3432"
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          x="698.11011"
-         y="543.76422">DINF C3SL UFPR</tspan><tspan
+         y="543.76422"></tspan><tspan
          id="tspan3426"
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          x="698.11011"
-         y="603.76422">Luis Carlos Erpen de Bona</tspan><tspan
-         id="tspan3118"
+         y="603.76422"> Fábio Akita</tspan><tspan
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          x="698.11011"
-         y="603.76422" /><tspan
-         id="tspan2870"
+         y="603.76422"
+         id="tspan3118" /><tspan
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          x="698.11011"
-         y="663.76422">por Associação Python Brasil</tspan><tspan
+         y="663.76422"
+         id="tspan2870">por Associação Python Brasil</tspan><tspan
          id="tspan3430"
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -324,23 +324,23 @@
       </g>
     </switch>
     <text
-       id="text2861"
-       sodipodi:linespacing="125%"
+       xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        x="163.17188"
-       xml:space="preserve"
-       y="842.41211"><tspan
-         id="tspan2863"
+       y="842.41211"
+       id="text2861"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
+         id="tspan2863"
          x="163.17188"
          y="842.41211">disponibilizado sob Creative Commons license</tspan></text>
     <image
-       xlink:href="file:///home/ramiro/Dropbox/PythonBrasil/PythonBrasil6-2010/arte/logo.png"
        y="35.639473"
        x="86.931641"
-       width="1266.1367"
-       style="fill:#7cba59;fill-opacity:1"
        id="image2935"
-       height="332.90665" />
+       height="332.90665"
+       width="1266.1367"
+       xlink:href="file:///home/ramiro/python/gerador-titulos/logo.png"
+       style="fill:#7cba59;fill-opacity:1" />
   </g>
 </svg>

@@ -14,8 +14,8 @@
    height="1080"
    id="svg2383"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="modelo.svg"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="A-21_de_out_de_2010_10-30_a_11-15.svg"
    sodipodi:version="0.32"
    version="1.0"
    width="1440">
@@ -91,10 +91,10 @@
      inkscape:document-units="px"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="525"
-     inkscape:window-width="1024"
+     inkscape:window-height="1056"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:zoom="0.2786611"
      objecttolerance="10"
      pagecolor="#ffffff"
@@ -142,7 +142,7 @@
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          x="698.11011"
-         y="543.76422"></tspan><tspan
+         y="543.76422" /><tspan
          id="tspan3426"
          sodipodi:role="line"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -335,12 +335,12 @@
          x="163.17188"
          y="842.41211">disponibilizado sob Creative Commons license</tspan></text>
     <image
-       y="35.639473"
-       x="86.931641"
-       id="image2935"
-       height="332.90665"
-       width="1266.1367"
        xlink:href="file:///home/ramiro/Dropbox/PythonBrasil/PythonBrasil6-2010/arte/logo.png"
-       style="fill:#7cba59;fill-opacity:1" />
+       style="fill:#7cba59;fill-opacity:1"
+       width="1266.1367"
+       height="332.90665"
+       id="image2935"
+       x="86.931641"
+       y="35.639473" />
   </g>
 </svg>
